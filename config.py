@@ -19,12 +19,11 @@ class Config(object):
   MAX_VIDEOS = int(os.environ.get("MAX_VIDEOS", 15))
   CAPTION = "Video Merged by @{}\n\nMade by @Hkbotzowner"
   PROGRESS = """<b>\n
-╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
-┣⪼ 🗃️ sɪᴢᴇ : {1} | {2}
-┣⪼ ⏳ Dᴏɴᴇ : {0}%
-┣⪼ 🚀 Sᴩᴇᴇᴅ: {3}/s
-┣⪼ ⏰️ Eᴛᴀ: {4}
-╰━━━━━━━━━━━━━━━➣ </b>"""
+𝙋𝙧𝙤𝙘𝙚𝙨𝙨𝙞𝙣𝙜... 
+🗃️ sɪᴢᴇ : {1} | {2}
+⏳ Dᴏɴᴇ : {0}%
+🚀 Sᴩᴇᴇᴅ: {3}/s
+⏰️ Eᴛᴀ: {4} </b>"""
 
 Config.AUTH_USERS = [1975696269, 1112773045]
 #Config.API_ID = 14604313
